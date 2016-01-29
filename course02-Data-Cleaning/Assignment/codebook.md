@@ -13,7 +13,7 @@
 
 ## Measurement Means
 
-Of the features provided in the original data set, the only features selected were the ones containing \"std\" and \"mean\". Special characters were removed from the feature names. All measurements are floating point values.
+Of the features provided in the original data set, the only features selected were the ones containing "std" and "mean". Special characters were removed from the feature names. All measurements are floating point values.
 
  - tBodyAccMeanX
  - tBodyAccMeanY
